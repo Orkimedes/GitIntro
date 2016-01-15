@@ -1,7 +1,7 @@
 #include < stdio.h >
 int main (void)
 {
-puts (“Hello world”);
+printf (“Hello world\n”);
 puts ("I am Repository");
 return 0;
 }
